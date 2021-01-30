@@ -10,9 +10,11 @@ Para todas as abordagens iremos utilizar a base de dados do IMDB (https://ai.sta
 
 # Estrutura do repositório
 
-- Vectorizers: Pasta que consolida arquivos baseados na vetorização de textos
-- Word Embeddings: Pasta que consolida arquivos baseados em word embeddings
-- Attention: Pasta que consolida arquivos baseados em redes de atenção
+- 1 - Vectorizers: Pasta que consolida arquivos baseados na vetorização de textos
+- 2 - Word Embeddings: Pasta que consolida arquivos baseados em word embeddings
+- 3 - Attention: Pasta que consolida arquivos baseados em redes de atenção
+
+IMPORTANTE: Para tornar mais direto a reproducibilidade cada etapa terá como principal código um Google Colab. Portanto, basta que você use o Collab para replicar os resultados apresentados aqui. Caso você queira utilizar localmente, a base de dados deverá estar em uma pasta "data" na root do repositório, e você deverá instalar os pacotes do requeriments.txt .
 
 
 # Author
